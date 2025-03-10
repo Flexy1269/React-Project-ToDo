@@ -1,0 +1,28 @@
+/* #taskList {
+  list-style-type: none;
+  padding: 0;
+}
+
+#taskList li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 5px;
+  background-color: #f9f9f9;
+}
+
+#taskList li span {
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+#taskList li button {
+  margin-left: 5px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+} */
